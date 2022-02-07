@@ -1,4 +1,4 @@
-# MISSING MIGRANTS PROJECT REPORT
+# MISSING MIGRANTS PROJECT 
 
 ## Business Understanding
 The International Organization for Migration (IOM)’s Missing Migrants Project records incidents in which migrants, including refugees and asylum-seekers, have died at state borders or in the process of migrating to an international destination. It was developed in response to disparate reports of people dying or disappearing along migratory routes around the world.The data is used to inform the Sustainable Development Goals Indicator 10.7.3 on the “[n]number of people who died or disappeared in the process of migration towards an international destination.”
