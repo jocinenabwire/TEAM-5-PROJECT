@@ -59,7 +59,7 @@ Imported pandas and numpy.
 Loaded the datasets using the links then previewed them, head and tail respectively as shown:
 ## Data Understanding
 Checked for the information. There are three datatypes in our dataframe. Mainly; integers, objects and floats
-#   Column                Non-Null Count  Dtype  
+###   Column                Non-Null Count  Dtype  
 ---  ------                --------------  -----  
  0   id                    2420 non-null   int64  
  1   cause_of_death        2217 non-null   object 
